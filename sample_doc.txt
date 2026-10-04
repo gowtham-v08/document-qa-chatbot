@@ -1,0 +1,5 @@
+Jeppiaar Engineering College is located in Chennai, Tamil Nadu.
+The B.E. Computer Science and Engineering programme with Artificial Intelligence and Machine Learning focuses on Python, machine learning, data structures, and software development.
+Students learn OOP, DBMS, operating systems, and practical project work.
+Retrieval-Augmented Generation (RAG) is a technique where relevant document chunks are retrieved and passed to a language model to answer questions more accurately.
+TF-IDF and cosine similarity are classic methods used in information retrieval and resume matching systems.
